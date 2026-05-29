@@ -2,7 +2,7 @@ Flask==0.12.4
 requests==2.18.4
 Pillow==5.4.1
 PyYAML==3.13
-cryptography==2.1.4
+cryptography==48.0.0
 urllib3==1.22
 SQLAlchemy==1.2.0
 Jinja2==2.10
