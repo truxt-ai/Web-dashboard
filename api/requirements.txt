@@ -5,5 +5,5 @@ PyYAML==3.13
 cryptography==2.1.4
 urllib3==1.22
 SQLAlchemy==1.2.0
-Jinja2==2.10
+Jinja2==3.1.6
 MarkupSafe==1.0
