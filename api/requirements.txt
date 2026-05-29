@@ -6,4 +6,4 @@ cryptography==2.1.4
 urllib3==1.22
 SQLAlchemy==1.2.0
 Jinja2==2.10
-MarkupSafe==1.0
+MarkupSafe==2.1.5
