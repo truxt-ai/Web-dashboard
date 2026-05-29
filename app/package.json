@@ -1,0 +1,22 @@
+{
+  "name": "truxt-dep-demo-app",
+  "version": "1.0.0",
+  "description": "Demo Node.js app with intentionally outdated dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "express": "4.16.0",
+    "lodash": "4.17.4",
+    "minimist": "0.0.8",
+    "node-fetch": "1.7.3",
+    "serialize-javascript": "1.9.1",
+    "node-forge": "0.9.0"
+  },
+  "devDependencies": {
+    "jest": "24.0.0"
+  }
+}
