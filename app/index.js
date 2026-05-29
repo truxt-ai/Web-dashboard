@@ -14,6 +14,12 @@ app.get('/users', (req, res) => {
   res.json(_.sortBy(users, 'name'));
 });
 
+// Catch-all error handler — prevents Express from leaking stack traces in responses.
+app.use((err, req, res, _next) => {
+  console.error(err.stack);
+  res.status(500).json({ error: 'Internal Server Error' });
+});
+
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
