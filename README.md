@@ -49,3 +49,6 @@ Every push to `main` triggers three workflows that intentionally fail:
 3. **Dependency Health Report** — version enforcement fails for all packages
 
 These failures are the input signal for truxt-axiom to detect, analyze, and raise fix PRs.
+
+<!-- audit-trigger test: nudge the dep-audit scan on this PR branch -->
+
