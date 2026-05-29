@@ -13,7 +13,7 @@
     "lodash": "4.17.4",
     "minimist": "0.0.8",
     "node-fetch": "1.7.3",
-    "serialize-javascript": "1.9.1",
+    "serialize-javascript": "7.0.5",
     "node-forge": "0.9.0"
   },
   "devDependencies": {
