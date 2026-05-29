@@ -1,0 +1,25 @@
+api/requirements.txt
+  s_a5d20aef014428::t_9d27f90d0fb842 1-2,4
+app/package.json
+  s_a5d20aef014428::t_ef0f5e03477016 11,13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "a6ea99fe95f146aba98a69ee31471b166b6c4a86",
+  "prompts": {},
+  "sessions": {
+    "s_a5d20aef014428": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dc7a1971-6448-4917-828a-bfe56cb71c73",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "raunakTruxt <raunakp@truxt.ai>",
+      "total_additions": 6,
+      "total_deletions": 6,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
