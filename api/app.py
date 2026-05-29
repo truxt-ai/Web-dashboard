@@ -13,7 +13,7 @@ def index():
 @app.route('/config')
 def config():
     with open('config.yaml') as f:
-        cfg = yaml.load(f)
+        cfg = yaml.safe_load(f)
     return jsonify(cfg)
 
 
