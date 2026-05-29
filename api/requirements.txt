@@ -7,3 +7,7 @@ urllib3==1.22
 SQLAlchemy==1.2.0
 Jinja2==2.10
 MarkupSafe==1.0
+paramiko==2.7.1
+celery==4.3.0
+lxml==4.4.0
+scipy==1.1.0
