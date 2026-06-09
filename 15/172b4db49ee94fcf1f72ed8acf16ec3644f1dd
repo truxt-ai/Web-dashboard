@@ -1,0 +1,25 @@
+app/package.json
+  s_97e1ae24605937::t_ef0742809c4703 11-17,20
+api/requirements.txt
+  s_97e1ae24605937::t_cc411820ed438c 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "15172b4db49ee94fcf1f72ed8acf16ec3644f1dd",
+  "prompts": {},
+  "sessions": {
+    "s_97e1ae24605937": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e89571d-ad2d-46c4-912e-9bf37cb9c1ff",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Crazyop757 <83007860+Crazyop757@users.noreply.github.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
