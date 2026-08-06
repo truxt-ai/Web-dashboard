@@ -1,0 +1,27 @@
+TEST-IMPACT-SHLD-9.md
+  s_0eda7375c664d9::t_af55e8cb5700ad 1-99
+.gitignore
+  s_0eda7375c664d9::t_1282b0629d9bca 1-4
+app/__tests__/axios-cve-2025-27152.test.js
+  s_0eda7375c664d9::t_c42779bd50cf4e 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0ff234835f40c5032e5c9453fc1f15417c5b4d31",
+  "prompts": {},
+  "sessions": {
+    "s_0eda7375c664d9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34385a78-d64a-4bd1-98e0-0f2a08311675",
+        "model": "claude-opus-5"
+      },
+      "human_author": "raunakTruxt <raunak@truxt.ai>",
+      "total_additions": 298,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
