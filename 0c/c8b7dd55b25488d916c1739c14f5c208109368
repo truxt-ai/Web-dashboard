@@ -1,0 +1,30 @@
+app/__tests__/security-regression.test.js
+  s_33195d385b990c::t_f316400f77e550 1-122
+api/tests/test_security_regression.py
+  s_33195d385b990c::t_bd8b060e07426e 9-14
+  s_33195d385b990c::t_f661087a3abc53 1-8,15-126
+.gitignore
+  s_33195d385b990c::t_632fa9bebb579a 1-4
+TEST-IMPACT-SHLD-1.md
+  s_33195d385b990c::t_8bd03e4478d63d 1-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0cc8b7dd55b25488d916c1739c14f5c208109368",
+  "prompts": {},
+  "sessions": {
+    "s_33195d385b990c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2fefccf9-dadc-43d1-8e7a-923111bae53e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "verify <verify@local>",
+      "total_additions": 341,
+      "total_deletions": 8,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
